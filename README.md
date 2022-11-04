@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdilSadigov
+- 👋 Hi, I’m AdilSadigov
 
 <!---
 AdilSadigov/AdilSadigov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
